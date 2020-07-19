@@ -1,2 +1,2 @@
 # session1
-Anything
+Training Python for beginners 
